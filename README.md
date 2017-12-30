@@ -1,4 +1,4 @@
-# structuredDataCrawler
+# Structured Data Crawler
 Crawler based on Scrapy.org that aims to extract various types of data and semantic annotations in order to construct a website profile.
 
 The crawler consumes a predefined list of seed URLs and looks for specific data within the website related to social network links, semantic annotations, media types and external links in general.
