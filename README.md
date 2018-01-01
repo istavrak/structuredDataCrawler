@@ -20,9 +20,9 @@ url="https://doi.org/10.1007/978-3-319-03973-2_48"
 ```
 
 
-Implementation details
+## Implementation details
 
-MySQL
+### MySQL
 
 The seeds table can be created using the following CREATE statement:
 ```
