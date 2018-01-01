@@ -34,10 +34,3 @@ CREATE TABLE `seed` (
   PRIMARY KEY (`seed_url`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 ```
-
-|---------------|--------------|------|-----|---------|-------|
-| Field         | Type         | Null | Key | Default | Extra |
-| seed_url      | varchar(400) | NO   | PRI |         |       |
-| last_check    | datetime     | YES  |     | NULL    |       |
-| pages_scraped | int(11)      | YES  |     | NULL    |       |
-| status        | int(11)      | YES  |     | NULL    |       |
